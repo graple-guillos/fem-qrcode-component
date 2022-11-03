@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-**Note  : I am Brazillian and a beginner english student, so my writing is not perfect yet. Please, take easy on me. I will write this document in Portuguese too, for the brazillian folks.
+**Note  : I am Brazillian and a beginner english student, so my writing is not perfect yet. Please, go easy on me. I will write this document in Portuguese too, for the brazillian folks.
 
 [ English ] In this challenge i learn how to use Sass for generating my css styles and how Frontend Mentor and Github works. 
 
